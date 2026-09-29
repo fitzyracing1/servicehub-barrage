@@ -1,2 +1,5 @@
 # servicehub-barrage
-Barrage plain-language clone of fitzyracing1/servicehub
+
+Barrage clone of [fitzyracing1/servicehub](https://github.com/fitzyracing1/servicehub).
+
+Read [listing.barrage](listing.barrage).
